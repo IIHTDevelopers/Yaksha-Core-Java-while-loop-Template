@@ -1,0 +1,39 @@
+Project Overview:
+This project focuses on evaluating the participants' ability to implement decision-making and repetition logic using the while loop in Java. The while loop allows for efficient iteration and repetition of a block of code as long as a specified condition remains true. This document presents the tasks, Java code for implementation, and a test case class to evaluate the use of the while loop statement.
+
+Learning Objectives:
+By the end of this project, participants will be able to:
+
+Use the while loop to perform repetitive tasks until a specific condition is met.
+Understand the importance of loop termination conditions to prevent infinite loops.
+Implement practical problems using the while loop structure.
+Assessment Tasks:
+Task 1: Print Numbers from 1 to N
+Write a program that prints numbers from 1 to a given number N using a while loop. Example:
+
+Input: N = 5
+Output: "1 2 3 4 5"
+
+Task 2: Sum of First N Natural Numbers
+Write a program that calculates the sum of the first N natural numbers using a while loop. Example:
+
+Input: N = 4
+Output: "Sum: 10"
+
+Task 3: Factorial of a Number
+Write a program that calculates the factorial of a given number N using a while loop. Example:
+
+Input: N = 5
+Output: "Factorial: 120"
+
+Task 4: Count Down from N to 1
+Write a program that counts down from a given number N to 1 using a while loop. Example:
+
+Input: N = 5
+Output: "5 4 3 2 1"
+
+Task 5: Print Fibonacci Sequence Up to N Terms
+Write a program that prints the Fibonacci sequence up to the Nth term using a while loop. Example:
+
+Input: N = 7
+Output: "0 1 1 2 3 5 8"
